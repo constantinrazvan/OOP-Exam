@@ -1,0 +1,6 @@
+Teacher,Alice,50000,123-45-6789,Mathematics
+AuxPersonal,Bob,35000,987-65-4321,Custodian,5
+Teacher,Charlie,45000,555-55-5555,History
+Teacher,Diana,60000,222-33-4444,English
+AuxPersonal,Eve,38000,666-77-8888,Security,3
+Teacher,Frank,55000,999-88-7777,Science
